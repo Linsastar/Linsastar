@@ -1,4 +1,4 @@
-# Hi there, I'm [Chenyang Gong]! 👋
+# Hi there, I'm Chenyang Gong! 👋
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and always eager to learn new things and take on challenges. I like to play single-player games. Like  "Assassin's Creed"、"Persona 5"、"Yakuza". Here's a little about me:
 
