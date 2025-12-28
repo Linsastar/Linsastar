@@ -30,8 +30,3 @@ Welcome to my GitHub profile! I'm a sophomore Software Engineering student at Ji
 - 🕹️ I'm a hardcore fan of single-player masterpieces: *Assassin's Creed*, *Persona 5*, and *Yakuza*. 
 - 📚 Striving for the perfect balance between "Elegant Code" and "Efficient Algorithms".
 
----
-
-### 📊 My GitHub Stats
-![Chenyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linsastar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linsastar&layout=compact&theme=radical)
