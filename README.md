@@ -1,32 +1,88 @@
-# Hi there, I'm Chenyang Gong! 👋
+# 👋 Hi, I'm Chenyang Gong | 巩晨阳
 
-Welcome to my GitHub profile! I'm a sophomore Software Engineering student at Jimei University, passionate about the intersection of **Deep Learning** and **Full-stack Development**. 
+🎓 **Senior Undergraduate Student** at **Jimei University**  
+💻 **Software Engineering**  
+🌱 Focused on **Deep Learning** and **Full-stack Development**
 
-## 🔭 I’m currently working on ...
-- **Bioinformatics & GNN**: Exploring protein property prediction using **Graph Neural Networks (GNN)** and **Transfer Learning** under lab guidance.
-- **Microservices**: Building robust applications using **Spring Cloud** and modern frontend stacks.
+---
 
-## 🌱 I’m currently learning ...
-- **AI Domain**: Deepening my understanding of Machine Learning and GNN architectures.
-- **Full-stack**: Mastering **Vue.js** & **Element UI** for elegant UI/UX, and refining **Qt** for desktop apps.
-- **System Level**: Diving into Operating Systems and Computer Architecture.
+## 👋 关于我 | About Me
 
-## 🛠 Tech Stack
-- **Languages**: Java (Proficient), C++, Python
-- **Backend**: Spring Cloud, Spring Boot, MySQL
-- **Frontend**: Vue.js, Element UI, Android Development
-- **AI/Science**: PyTorch, DGL / PyG (GNN libraries), Machine Learning
+你好！我是 **巩晨阳**，集美大学软件工程专业**大四本科生**。  
+我对 **深度学习（Deep Learning）** 与 **系统软件 / 全栈开发** 的结合方向充满兴趣，  
+目前主要关注 **图神经网络（GNN）** 在 **生物信息学** 中的应用，以及 **微服务架构** 的工程实践。
 
-## 💬 Ask me about ...
-- **Java Ecosystem**: Especially microservices and design patterns.
-- **Computer Architecture**: I'm fascinated by how things work under the hood.
-- **Web Development**: Building responsive and scalable web apps.
+---
 
-## 📫 How to reach me:
-- 📧 Email: [jmu_gcy@jmu.edu.cn](mailto:jmu_gcy@jmu.edu.cn)
-- 🎮 Steam: [491015456](https://steamcommunity.com/profiles/491015456) (Let's play!)
+## 🔭 Current Focus | 当前研究与项目
 
-## ⚡ Fun fact: 
-- 🕹️ I'm a hardcore fan of single-player masterpieces: *Assassin's Creed*, *Persona 5*, and *Yakuza*. 
-- 📚 Striving for the perfect balance between "Elegant Code" and "Efficient Algorithms".
+- 🧬 **Bioinformatics & Graph Neural Networks**  
+  Studying protein property prediction using **Graph Neural Networks (GNNs)** and **transfer learning**, under laboratory guidance.  
+  在实验室指导下，学习并探索基于 **GNN 与迁移学习** 的蛋白质性质预测方法。
 
+- ☁️ **Microservices & Backend Development**  
+  Learning and practicing microservice architectures with **Spring Cloud** and **Spring Boot**, focusing on modular design and service communication.  
+  使用 **Spring Cloud / Spring Boot** 进行微服务系统设计与实践。
+
+---
+
+## 🌱 Learning | 正在学习
+
+- 🤖 **Artificial Intelligence**  
+  Machine Learning fundamentals, Graph Neural Network architectures  
+  机器学习基础与图神经网络结构
+
+- 🌐 **Full-stack Development**  
+  Vue.js, Element UI, Android Development  
+  前端框架与移动端开发
+
+- 🖥 **System-level Knowledge**  
+  Operating Systems, Computer Architecture  
+  操作系统与计算机体系结构
+
+---
+
+## 🛠 Tech Stack | 技术栈
+
+### 💬 Programming Languages
+- Java (Proficient)
+- C++
+- Python
+
+### ⚙️ Backend
+- Spring Boot
+- Spring Cloud
+- MySQL
+
+### 🎨 Frontend
+- Vue.js
+- Element UI
+- Android Development
+
+### 🤖 AI / Research
+- PyTorch
+- DGL / PyG
+- Machine Learning
+
+---
+
+## 💬 Ask Me About | 可以和我聊聊
+
+- ☕ Java 后端开发与微服务架构  
+- 🧠 图神经网络（GNN）与深度学习基础  
+- 🖥 计算机体系结构与底层原理  
+- 🌐 Web 应用开发与系统设计  
+
+---
+
+## 📫 Contact | 联系方式
+
+- 📧 Email: **jmu_gcy@jmu.edu.cn**  
+- 🎮 Steam: [491015456](https://steamcommunity.com/profiles/491015456)
+
+---
+
+## ⚡ Fun Fact | 有趣的事
+
+- 🎮 单机游戏爱好者：*Assassin’s Creed*, *Persona 5*, *Yakuza*  
+- 📚 希望在 **Elegant Code** 与 **Efficient Algorithms** 之间找到平衡
