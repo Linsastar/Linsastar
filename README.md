@@ -9,8 +9,13 @@
 ## 👋 关于我 | About Me
 
 你好！我是 **巩晨阳**，集美大学软件工程专业**大四本科生**。  
+Hello! I'm **Chenyang Gong**, a **senior undergraduate student** majoring in **Software Engineering** at Jimei University.
+
 我对 **深度学习（Deep Learning）** 与 **系统软件 / 全栈开发** 的结合方向充满兴趣，  
-目前主要关注 **图神经网络（GNN）** 在 **生物信息学** 中的应用，以及 **微服务架构** 的工程实践。
+I am highly interested in the intersection of **Deep Learning** and **system-level / full-stack development**.
+
+目前主要关注 **图神经网络（GNN）** 在 **生物信息学** 中的应用，以及 **微服务架构** 的工程实践。  
+My current focus includes **Graph Neural Networks (GNNs)** for **bioinformatics** and practical exploration of **microservice architectures**.
 
 ---
 
@@ -69,9 +74,16 @@
 ## 💬 Ask Me About | 可以和我聊聊
 
 - ☕ Java 后端开发与微服务架构  
+  Java backend development and microservice architecture
+
 - 🧠 图神经网络（GNN）与深度学习基础  
+  Graph Neural Networks (GNNs) and deep learning fundamentals
+
 - 🖥 计算机体系结构与底层原理  
+  Computer architecture and low-level system principles
+
 - 🌐 Web 应用开发与系统设计  
+  Web application development and system design
 
 ---
 
@@ -79,10 +91,3 @@
 
 - 📧 Email: **jmu_gcy@jmu.edu.cn**  
 - 🎮 Steam: [491015456](https://steamcommunity.com/profiles/491015456)
-
----
-
-## ⚡ Fun Fact | 有趣的事
-
-- 🎮 单机游戏爱好者：*Assassin’s Creed*, *Persona 5*, *Yakuza*  
-- 📚 希望在 **Elegant Code** 与 **Efficient Algorithms** 之间找到平衡
