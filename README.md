@@ -6,7 +6,7 @@
 
 ---
 
-## 👋 关于我 | About Me
+## 👋 About Me | 关于我
 
 你好！我是 **巩晨阳**，集美大学软件工程专业**大四本科生**。  
 Hello! I'm **Chenyang Gong**, a **senior undergraduate student** majoring in **Software Engineering** at Jimei University.
