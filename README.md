@@ -29,21 +29,6 @@ My current focus includes **Graph Neural Networks (GNNs)** for **bioinformatics*
   Learning and practicing microservice architectures with **Spring Cloud** and **Spring Boot**, focusing on modular design and service communication.  
   使用 **Spring Cloud / Spring Boot** 进行微服务系统设计与实践。
 
----
-
-## 🌱 Learning | 正在学习
-
-- 🤖 **Artificial Intelligence**  
-  Machine Learning fundamentals, Graph Neural Network architectures  
-  机器学习基础与图神经网络结构
-
-- 🌐 **Full-stack Development**  
-  Vue.js, Element UI, Android Development  
-  前端框架与移动端开发
-
-- 🖥 **System-level Knowledge**  
-  Operating Systems, Computer Architecture  
-  操作系统与计算机体系结构
 
 ---
 
