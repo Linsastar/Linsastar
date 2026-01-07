@@ -34,25 +34,41 @@ My current focus includes **Graph Neural Networks (GNNs)** for **bioinformatics*
 
 ## 🛠 Tech Stack | 技术栈
 
-### 💬 Programming Languages
-- Java (Proficient)
-- C++
-- Python
+<p align="left">
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" style="margin-right:12px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" style="margin-right:12px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" style="margin-right:12px;"/>
 
-### ⚙️ Backend
-- Spring Boot
-- Spring Cloud
-- MySQL
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36" height="36" style="margin-right:12px;"/>
 
-### 🎨 Frontend
-- Vue.js
-- Element UI
-- Android Development
+  <!-- Frontend / Client -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="36" height="36" style="margin-right:12px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" style="margin-right:12px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" style="margin-right:12px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="36" height="36" style="margin-right:12px;"/>
 
-### 🤖 AI / Research
-- PyTorch
-- DGL / PyG
-- Machine Learning
+  <!-- Platform -->
+  <img src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" width="36" height="36" style="margin-right:12px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="36" height="36" style="margin-right:12px;"/>
+
+  <!-- Database / Storage -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" style="margin-right:12px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" style="margin-right:12px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="36" height="36" style="margin-right:12px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="36" height="36" style="margin-right:12px;"/>
+
+  <!-- Infra -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" style="margin-right:12px;"/>
+
+  <!-- AI -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="36" height="36"/>
+</p>
+
+
+
+
 
 ---
 
@@ -63,9 +79,6 @@ My current focus includes **Graph Neural Networks (GNNs)** for **bioinformatics*
 
 - 🧠 图神经网络（GNN）与深度学习基础  
   Graph Neural Networks (GNNs) and deep learning fundamentals
-
-- 🖥 计算机体系结构与底层原理  
-  Computer architecture and low-level system principles
 
 - 🌐 Web 应用开发与系统设计  
   Web application development and system design
